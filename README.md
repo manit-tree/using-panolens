@@ -1,6 +1,9 @@
 # using-panolens
 Mini project for learning how to use Panolens.js
 
+## Demo
+[https://using-panolens.vercel.app/](https://using-panolens.vercel.app/)
+
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/11b6cbac-ab5f-4306-980b-94e7a6adb0bf)
